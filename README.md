@@ -1,6 +1,6 @@
-# CsiONet Code
+# CsiONet
 
-This repository provides the implementation of CsiONet presented in the following paper:
+This repository provides the inference implementation of CsiONet presented in the following paper:
 
 **K. Yang, Q. Xiao, C. Wang, and Z. Wang, "Deep Learning-Based Channel Prediction With Outdated CSI for Underwater Acoustic Communications," IEEE Wireless Communications Letters, vol. 15, pp. 5001–5005, 2026.**
 
